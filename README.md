@@ -9,7 +9,7 @@ This analysis is presented through an interactive dashboard that enables stakeho
 ---
 ## 📸 Dashboard Preview
 
-![Patient Waitlist Analysis Dashboard](Screenshots/dashboard_preview.png)
+![Patient Waitlist Analysis Dashboard](screenshots/dashboard_preview.png)
 
 ---
 
